@@ -1,0 +1,6 @@
+{
+  "name": "BusinessPOS - Retail Inventory & Billing Suite",
+  "description": "Enterprise-grade retail inventory management and Point of Sale (POS) system with dynamic UPI QR payments, barcode billing, real-time stock deduction, and GST invoice generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
